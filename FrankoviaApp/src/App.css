@@ -1,0 +1,67 @@
+#root {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.center{
+  position: relative;
+  top: 15px;
+}
+.center button{
+  position: relative;
+  top: 20px;
+}
+.points{
+  width: 400px;
+  display: flex;
+  justify-content:center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Scorrers{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team{
+  display: flex;
+  justify-content:center;
+}
+.team button{
+  width: 80px;
+}
+.img{
+  width: 60px;
+  height: 60px;
+  background-color: white;
+}
+.count{
+  height: 50px;
+  width: 70px;
+  font-size: 30px;
+  text-align: center;
+}
+.list{
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Scorrers input{
+  width: 200px;
+  height: 40px;
+  font-size: 30px;
+  text-align: center;
+}
+.Scorrers button{
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.list p{
+  font-size: 30px;
+}
+.list li{
+  font-size: 35px;
+}
